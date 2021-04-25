@@ -284,8 +284,8 @@ img{
     flex-wrap:wrap;
 }
 
-.about p{
-    font-style: italic;
+.about q{
+    color: white;
 }
 
 .about a{
@@ -310,7 +310,7 @@ img{
     .julie {
         grid-template-columns: 1fr 1fr;}
 
-        .about p{
+        .about q{
             line-height: 2.3rem;
             font-size: 1.5rem;
 
